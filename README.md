@@ -1,4 +1,4 @@
-# Simple Command Line Task Manager
+#  Command Line Task Manager
 
 A basic command-line task manager written in Python.
 
